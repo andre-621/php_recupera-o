@@ -1,0 +1,16 @@
+{
+    "name": "instrutech/grupo3",
+    "description": "Site de venda e aluguel de instrumentos musicais",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mahrvi",
+            "email": "mvjs2004@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpmailer/phpmailer": "dev-master"
+    }
+}
